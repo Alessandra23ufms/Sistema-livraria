@@ -36,8 +36,8 @@ O script inclui:
 
 ## 👩‍💻 Desenvolvido por
 
-Alessandra Medeiros  
-Tecnologia da Informação – Projeto Integrador
+Alessandra Camila Medeiros  
+Tecnologia da Informação – Projeto Integrador II
 
 ---
 
