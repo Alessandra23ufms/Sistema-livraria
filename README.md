@@ -27,7 +27,7 @@ O script inclui:
 ## 🚀 Como Executar
 
 1. Abra um sistema de banco de dados SQLite ou outro compatível com os comandos SQL.
-2. Copie e cole o conteúdo do arquivo [`livraria.sql`](./livraria.sql) ou execute diretamente.
+2. Copie e cole o conteúdo do arquivo 👉 [livraria.sql](livraria.sql) ou execute diretamente.
 3. O banco de dados será criado com as tabelas e dados inseridos automaticamente.
 
 ## 📂 Arquivo Principal
